@@ -4,7 +4,7 @@ This is not meant to be financial advice.
 
 # Overview
 
-Using a dataset found [here](https://www.kaggle.com/philmohun/cryptocurrency-financial-data) and using Pandas my intention is to analyze the price changes of various crypto currencies to see where it would be safest to invest. Everyone should have some money in crypto currencies, as even a few dollars invested at the right time can potentially have exponential gains.
+Using a dataset found [here](https://www.kaggle.com/philmohun/cryptocurrency-financial-data) and using Pandas my intention is to analyze the price changes of various crypto currencies to see where it would be safest to invest. 
 
 [Software Demo Video](https://youtu.be/HvyI1xNGR1w)
 
